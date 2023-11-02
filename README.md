@@ -1,4 +1,3 @@
-# your-project-name
 
 ## Project setup
 ```
